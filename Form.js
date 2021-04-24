@@ -16,7 +16,7 @@ class Form {
   }
 
   display(){
-        this.title.html("FRUIT CATCHER 2");
+        this.title.html("FRUIT CATCHER 1");
         this.title.position(350, 30);
         this.title.style('font-size', '70px');
         this.title.style('color', 'skyblue');
